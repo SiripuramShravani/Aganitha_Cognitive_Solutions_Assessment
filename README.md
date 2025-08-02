@@ -27,7 +27,7 @@ This tool searches PubMed for research papers based on user-specified queries an
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd pubmed-paper-fetcher
+cd Aganitha_Cognitive_Solutions_Assessment
 ```
 
 2. Install dependencies using Poetry:
